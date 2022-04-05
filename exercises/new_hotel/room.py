@@ -6,7 +6,7 @@ class HotelRoom(object):
         self.quantity_of_room = quantity_of_room
 
     def  get_number_of_room(self):
-        return self.tnumber_of_room
+        return self.number_of_room
 
     def  get_type_of_room(self):
         return self.type_of_room
